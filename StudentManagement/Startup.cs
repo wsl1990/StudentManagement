@@ -26,6 +26,7 @@ namespace StudentManagement
                 app.UseDeveloperExceptionPage();
             }
 
+
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>
